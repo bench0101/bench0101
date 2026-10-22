@@ -1,3 +1,3 @@
-# Hi, I'm Benjamin 👋
+Hi, I'm Benjamin 👋
 
-Find me at **[github.com/benjaminchang7](https://github.com/benjaminchang7)**.
+This is my work account at AppLovin. Find me at [github.com/benjaminchang7](https://github.com/benjaminchang7).
